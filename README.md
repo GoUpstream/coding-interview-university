@@ -184,46 +184,46 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Leetcode
 
-- [X] [Array]
-- [X] [Hash Table]
-- [X] [Linked List]
-- [Math]
-- [Two Pointers]
-- [String]
-- [X] [Binary Search]
-- [Divide and Conquer]
-- [Dynamic Programming]
-- [Backtracking]
-- [X] [Stack]
-- [Heap]
-- [Greedy]
-- [Sort]
-- [Bit Manipulation]
-- [Tree]
-- [Depth-first Search]
-- [Breadth-first Search]
-- [Union Find]
-- [Graph]
-- [Design]
-- [Topological Sort]
-- [Tire]
-- [Binary Search Tree]
-- [Recursion]
-- [Brainteaser]
-- [Memoization]
-- [X] [Queue]
-- [Minimax]
-- [Reservoir Sampling]
-- [Ordered Map]
-- [Geomety]
-- [Random]
-- [Rejection Sampling]
-- [Sliding Window]
-- [Line Sweep]
-- [Rolling Hash]
-- [Suffix Array]
-- [Dequeue]
-- [OOP]
+- [X] Array
+- [X] Hash Table
+- [X] Linked List
+- Math
+- Two Pointers
+- String
+- [X] Binary Search
+- Divide and Conquer
+- Dynamic Programming
+- Backtracking
+- [X Stack
+- Heap
+- Greedy
+- Sort
+- Bit Manipulation
+- Tree
+- Depth-first Search
+- Breadth-first Search
+- Union Find
+- Graph
+- Design
+- Topological Sort
+- Tire
+- Binary Search Tree
+- Recursion
+- Brainteaser
+- Memoization
+- [X] Queue
+- Minimax
+- Reservoir Sampling
+- Ordered Map
+- Geomety
+- Random
+- Rejection Sampling
+- Sliding Window
+- Line Sweep
+- Rolling Hash
+- Suffix Array
+- Dequeue
+- OOP
 
 ---
 
