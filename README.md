@@ -194,7 +194,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - Divide and Conquer
 - Dynamic Programming
 - Backtracking
-- [X Stack
+- [X] Stack
 - Heap
 - Greedy
 - Sort
