@@ -84,13 +84,13 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [X] [Stack](#stack)
     - [X] [Queue](#queue)
     - [X] [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
+- [X] [More Knowledge](#more-knowledge)
     - [X] [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
+    - [X] [Bitwise operations](#bitwise-operations)
 - [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [X] [Trees - Notes & Background](#trees---notes--background)
+    - [X] [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [X] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
@@ -195,10 +195,10 @@ If you want to be a reliability engineer or operations engineer, study more from
 - Dynamic Programming
 - Backtracking
 - [X] Stack
-- Heap
+- [X] Heap
 - Greedy
 - Sort
-- Bit Manipulation
+- [X] Bit Manipulation
 - Tree
 - Depth-first Search
 - Breadth-first Search
@@ -207,7 +207,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - Design
 - Topological Sort
 - Tire
-- Binary Search Tree
+- [X] Binary Search Tree
 - Recursion
 - Brainteaser
 - Memoization
