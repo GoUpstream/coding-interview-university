@@ -87,18 +87,18 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [X] [More Knowledge](#more-knowledge)
     - [X] [Binary search](#binary-search)
     - [X] [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
+- [X] [Trees](#trees)
     - [X] [Trees - Notes & Background](#trees---notes--background)
     - [X] [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [X] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
+    - [X] balanced search trees (general concept, not details)
+    - [X] traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
+    - [X] selection
+    - [X] insertion
+    - [X] heapsort
     - quicksort
-    - merge sort
+    - [X] merge sort
 - [Graphs](#graphs)
     - directed
     - undirected
@@ -106,7 +106,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - adjacency list
     - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
+    - [X] [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
     - [Object-Oriented Programming](#object-oriented-programming)
     - [Design Patterns](#design-patterns)
@@ -197,9 +197,9 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [X] Stack
 - [X] Heap
 - Greedy
-- Sort
+- [X] Sort
 - [X] Bit Manipulation
-- Tree
+- [X] Tree
 - Depth-first Search
 - Breadth-first Search
 - Union Find
@@ -208,7 +208,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - Topological Sort
 - Tire
 - [X] Binary Search Tree
-- Recursion
+- [X] Recursion
 - Brainteaser
 - Memoization
 - [X] Queue
